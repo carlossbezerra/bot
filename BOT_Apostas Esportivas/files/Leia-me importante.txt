@@ -1,0 +1,7 @@
+!!!Não altere nada nos documentos!!!
+
+As únicas coisas que podem ser alteradas são as imagens
+após a alteração, salvar com o mesmo nome:
+
+inicio.png = imagem enviada com a mensagem da sessão é iniciada
+sinal.png = Mensagem enviada junto com a mensagem de sinal
